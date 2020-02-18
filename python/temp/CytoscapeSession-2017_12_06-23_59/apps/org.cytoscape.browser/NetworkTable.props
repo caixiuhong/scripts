@@ -1,0 +1,5 @@
+hb_g4.txt default network,0,SUID,false
+hb_g4.txt default network,1,selected,false
+hb_g4.txt default network,2,shared name,true
+hb_g4.txt default network,3,name,true
+hb_g4.txt default network,4,__Annotations,true

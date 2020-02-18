@@ -1,0 +1,19 @@
+hb_g4.txt default node,0,SUID,false
+hb_g4.txt default node,1,selected,false
+hb_g4.txt default node,2,shared name,true
+hb_g4.txt default node,3,name,true
+hb_g4.txt default node,4,AverageShortestPathLength,true
+hb_g4.txt default node,5,ClusteringCoefficient,true
+hb_g4.txt default node,6,ClosenessCentrality,true
+hb_g4.txt default node,7,IsSingleNode,true
+hb_g4.txt default node,8,PartnerOfMultiEdgedNodePairs,true
+hb_g4.txt default node,9,SelfLoops,true
+hb_g4.txt default node,10,Eccentricity,true
+hb_g4.txt default node,11,Stress,true
+hb_g4.txt default node,12,Degree,true
+hb_g4.txt default node,13,BetweennessCentrality,true
+hb_g4.txt default node,14,NeighborhoodConnectivity,true
+hb_g4.txt default node,15,NumberOfDirectedEdges,true
+hb_g4.txt default node,16,NumberOfUndirectedEdges,true
+hb_g4.txt default node,17,Radiality,true
+hb_g4.txt default node,18,TopologicalCoefficient,true
